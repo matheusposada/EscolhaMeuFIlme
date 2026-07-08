@@ -56,4 +56,4 @@ Filme.java → modelo de dados de um filme
 - [x] Nível 1 — Lista de filmes fixa no código
 - [x] Nível 2 — Leitura de filmes via arquivo CSV
 - [x] Nível 3 — Integração com API real (TMDB)
-- [x] Nível 4 — Interface gráfica
+- [] Nível 4 — Interface gráfica
